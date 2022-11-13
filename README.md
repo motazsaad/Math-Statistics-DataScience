@@ -24,3 +24,7 @@ Math and Statistics for Data Science
 References
 
 - [Math for Data Science (Learning Path) – Real Python](https://realpython.com/learning-paths/math-data-science/)
+
+
+# Python Env 
+Anaconda https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe 
