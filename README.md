@@ -27,4 +27,7 @@ References
 
 
 # Python Env 
-Anaconda https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe 
+Anaconda https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe
+
+# VS code 
+https://code.visualstudio.com/Download  
