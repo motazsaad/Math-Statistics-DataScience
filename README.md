@@ -3,8 +3,6 @@ Math and Statistics for Data Science
 
 # Topics
 
-- Linear Algebra: useful for PCA & Regression
-- Calculus: useful for gradient decent
 - Descriptive Statistics: useful for data exploration
   - Central Tendency
   - Variability
@@ -13,7 +11,9 @@ Math and Statistics for Data Science
 - Inferential Statistics: useful for data exploration and hypothesis testing
   - Linear regression
   - Visualization (Bar charts, Histograms, box plots, scatter plots)
-- Gradient Decent
+- Linear Algebra: useful for PCA & Regression
+- Calculus: useful for gradient decent
+
 
 # Python Libraries
 
@@ -21,7 +21,7 @@ Math and Statistics for Data Science
 - Scipy
 - Pandas
 
-References
+# References
 
 - [Math for Data Science (Learning Path) – Real Python](https://realpython.com/learning-paths/math-data-science/)
 
@@ -31,3 +31,7 @@ Anaconda https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe
 
 # VS code 
 https://code.visualstudio.com/Download  
+
+
+# Video Lectures 
+https://youtube.com/playlist?list=PL39RMbpB79NPKxyyAE6g2HFOM1sTXLrqU
