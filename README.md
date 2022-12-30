@@ -37,7 +37,7 @@ https://code.visualstudio.com/Download
 https://youtube.com/playlist?list=PL39RMbpB79NPKxyyAE6g2HFOM1sTXLrqU
 
 # Practice Numpy at Hacker Rank 
-https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy
+[Practice Numpy at Hacker Rank](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
 
 # 100 Numpy exercises
 https://github.com/rougier/numpy-100
