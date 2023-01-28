@@ -31,6 +31,10 @@ Math and Statistics for Data Science
 - [Naive Bayes with SKLearn](https://scikit-learn.org/stable/modules/naive_bayes.html)
 - [Classifier Comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)
 - [SKLearn Docs](https://scikit-learn.org/stable/index.html)
+## Naive Bayes Examples: 
+- [Glass dataset](https://dev.to/codinghappinessweb/analysing-dataset-using-naive-bayes-classifier-3d7o)
+- [Titanic Dataset](https://www.kaggle.com/code/zeyunliang/naive-bayes/notebook)
+- [Adult dataset](https://www.kaggle.com/code/prashant111/naive-bayes-classifier-in-python)
 # Regression Machine learning Models 
 - [Linear Model](https://scikit-learn.org/stable/modules/linear_model.html)
 - [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
